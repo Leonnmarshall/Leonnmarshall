@@ -3,18 +3,18 @@
 <!--
 **Leonnmarshall/Leonnmarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Quem sou eu?
+### Quem sou eu?
 
 
-**Skills 💻
+### Skills 💻
 
-**Atualmente estou aprendendo...
-
-**Encontre-me ao redor do mundo 🌎
-
-
-**My projects
+### Atualmente estou aprendendo...
 
 
 
+
+### My projects
+
+
+### Encontre-me ao redor do mundo 🌎
 -->
