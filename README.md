@@ -26,7 +26,10 @@
 
 ### My projects
 Aplicativos Web
-[Vivendo bem]('https://github.com/Leonnmarshall/app-vivendo-bem')
+[Vivendo bem](https://github.com/Leonnmarshall/app-vivendo-bem)
+[BiblioFlix](https://github.com/Leonnmarshall/BiblioFlix)
+[Barbearia Deodado](https://github.com/Leonnmarshall/webDeveloper)
+[Sua Casa em Hogwarts](https://github.com/Leonnmarshall/CasaHogwarts-.git)
 
 ### Encontre-me ao redor do mundo 🌎
 -->
