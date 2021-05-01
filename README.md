@@ -27,6 +27,7 @@
 ### My projects
 
 *Data Science:*
+[Custos Médicos - Modelo de Precificação](https://github.com/Leonnmarshall/Data-Science/tree/master/Aula%203)
 [Visualização de Dados - BI](https://github.com/Leonnmarshall/Data-Science/tree/master/Aula2)
 [Analise de Dados Públicos](https://github.com/Leonnmarshall/dataAnalytics)
 *Aplicativos Web:*
