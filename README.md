@@ -1,6 +1,6 @@
-# Hi, I'm Leonardo 💻 👋
+### Hi, I'm Leonardo 💻 👋
 
-# Quem sou eu?
+### Quem sou eu?
 
 😃 💻 Cientista de Dados 🥰.
 📊 Conslutor de Learning Analytics.
@@ -11,7 +11,7 @@
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - SENAC.
 🍾 Aluno Especial PPGCI - UNICAMP.
 
-# 💡 Skills 💻
+### 💡 Skills 💻
 🐍 Python.
 📈 R.
 🧮 Power BI.
@@ -19,13 +19,13 @@
 📊 Data Visualization
 📊 Learning Analytics
 
-# 🔋 Atualmente estou aprendendo  💻
+### 🔋 Atualmente estou aprendendo  💻
 🗄 SQL.
 ➿ Front-end.
 🔅 Espanhol e Inglês
 
-# My projects
+### My projects
 
 
-# Encontre-me ao redor do mundo 🌎
+### Encontre-me ao redor do mundo 🌎
 -->
