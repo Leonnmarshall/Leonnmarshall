@@ -29,7 +29,6 @@
 *Data Science:*
 [Visualização de Dados - BI](https://github.com/Leonnmarshall/Data-Science/tree/master/Aula2)
 [Analise de Dados Públicos](https://github.com/Leonnmarshall/dataAnalytics)
-
 *Aplicativos Web:*
 [Vivendo bem](https://github.com/Leonnmarshall/app-vivendo-bem)
 [BiblioFlix](https://github.com/Leonnmarshall/BiblioFlix)
