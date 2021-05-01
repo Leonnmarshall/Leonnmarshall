@@ -3,7 +3,7 @@
 ### Quem sou eu?
 
 😃 💻 Cientista de Dados 🥰.
-📊 Conslutor de Learning Analytics.
+📊 Consultor.
 📚 Pesquisador.
 😁 Empreendedor.
 🎓 Licenciatura em Pedagogia - FORTIUM (2018).
