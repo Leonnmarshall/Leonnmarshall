@@ -41,5 +41,5 @@
 ### Encontre-me neste mundo 🌎
 * [Linkedin](www.linkedin.com/in/leonnmarshall)
 * [Instagram](https://www.instagram.com/data_universebr/)
-* [E-mail](mail:datauniversebr@gmail.com)
+* [Lattes](http://lattes.cnpq.br/2936385010552177)
 -->
