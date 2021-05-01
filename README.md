@@ -25,11 +25,21 @@
 🔅 Espanhol e Inglês
 
 ### My projects
-Aplicativos Web
+
+*Data Science:*
+[Visualização de Dados - BI](https://github.com/Leonnmarshall/Data-Science/tree/master/Aula2)
+[Analise de Dados Públicos](https://github.com/Leonnmarshall/dataAnalytics)
+
+*Aplicativos Web:*
 [Vivendo bem](https://github.com/Leonnmarshall/app-vivendo-bem)
 [BiblioFlix](https://github.com/Leonnmarshall/BiblioFlix)
 [Barbearia Deodado](https://github.com/Leonnmarshall/webDeveloper)
 [Sua Casa em Hogwarts](https://github.com/Leonnmarshall/CasaHogwarts-.git)
+*Sites:*
+[Instituto Latinoamericano de Valores Humanos](https://institutovaloreshumanos.org/)
 
-### Encontre-me ao redor do mundo 🌎
+### Encontre-me neste mundo 🌎
+* [Linkedin](www.linkedin.com/in/leonnmarshall)
+* [Instagram](https://www.instagram.com/data_universebr/)
+* [E-mail](mail:datauniversebr@gmail.com)
 -->
