@@ -1,4 +1,4 @@
-### Hi, I'm Leonardo 💻 👋
+### Olá, Eu sou Leonardo Marçal 💻 👋
 
 ### Quem sou eu?
 
@@ -24,7 +24,7 @@
 ➿ Front-end.
 🔅 Espanhol e Inglês
 
-### My projects
+### Meus projetos
 
 *Data Science:*
 [Custos Médicos - Modelo de Precificação](https://github.com/Leonnmarshall/Data-Science/tree/master/Aula%203)
