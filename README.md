@@ -42,4 +42,5 @@
 * [Linkedin](www.linkedin.com/in/leonnmarshall)
 * [Instagram](https://www.instagram.com/data_universebr/)
 * [Lattes](http://lattes.cnpq.br/2936385010552177)
+* [Site](https://datauniverse.mailchimpsites.com/)
 
