@@ -21,7 +21,7 @@
 📊 Learning Analytics.
 
 ### 🔋 Atualmente estou aprendendo  💻
-🗄 SGBDS | DOCKER | GCP.
+🗄 Tableau | DOCKER | GCP | AWS
 ➿ Front-end.
 🔅 Inglês.
 
