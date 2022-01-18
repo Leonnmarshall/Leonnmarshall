@@ -2,15 +2,18 @@
 
 ### Quem sou eu?
 
-😃 💻 Cientista de Dados 🥰.
+😃 💻 Cientista da Informação em formação 🥰.
 📊 Consultor.
-📚 Pesquisador.
 😁 Empreendedor.
 🎓 Licenciatura em Pedagogia - FORTIUM (2018).
-🎓 Bacharelando em Biblioteconomia - UFPE.
+🎓 Bacharelado em Biblioteconomia - UFPE.
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - SENAC.
-🍾 Aluno Especial PPGCI - UNICAMP.
+🎓 Mestrando em Ciência da Informação - PPGCI UFPE.
+
+#Trabalho atual
+
 📊 Business Tech Analyst I - Grupo Boticário. 
+📚 Pesquisador CAPES. 
 
 ### 💡 Skills 💻
 🐍 Python.
