@@ -10,7 +10,7 @@
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - SENAC.
 🎓 Mestrando em Ciência da Informação - PPGCI UFPE.
 
-#Trabalho atual
+###Trabalho atual
 
 📊 Business Tech Analyst I - Grupo Boticário. 
 📚 Pesquisador CAPES. 
